@@ -13,3 +13,4 @@ https://www.kaggle.com/tondji/jobs-data-for-recommender-systems <br>
 1. Tanimoto or Jaccard Similarity <br>
 2. Cosine or Orchini Similarity <br>
 3. Distance based similarity measures: Manhattan (City Block Similarity) and Euclidean based <br>
+For cosine and distance based similarity measures, we first need to vectorize the skills stored for each unique job offer and the user skillset to compare them accordingly.
